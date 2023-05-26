@@ -1,0 +1,8 @@
+/*----------Akses Login--------*/
+
+APLIKASI INPUT DATA PELANGGAN BERBASIS WEB*/
+
+NIK		: 1111010509
+Password	: Admin12345
+
+/*----Thanks -----*/ 
